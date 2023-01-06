@@ -1,0 +1,27 @@
+.removeButton {
+  cursor: pointer;
+  color: white;
+  background-color: black;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin: 5px;
+  font-size: 20px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+.singleItem {
+  width: 500px;
+  justify-content: space-between;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
+
+.listMain {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: center;
+  align-items: center;
+}
